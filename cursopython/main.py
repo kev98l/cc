@@ -1,2 +1,4 @@
 class paleta:
     pass
+
+holaaaa
